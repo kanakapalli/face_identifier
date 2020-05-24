@@ -1,1 +1,1 @@
-# Face identifier using
+# Face identifier using numpy and open cv
